@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace HR.WEB_UI
+namespace HR.Web_UI
 {
     public class RouteConfig
     {
