@@ -1,0 +1,4 @@
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Tests\bin\Debug\HR.Tests.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Tests\bin\Debug\HR.Tests.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Tests\obj\Debug\HR.Tests.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Tests\obj\Debug\HR.Tests.pdb

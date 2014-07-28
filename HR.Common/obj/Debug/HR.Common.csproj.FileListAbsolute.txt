@@ -1,0 +1,7 @@
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\bin\Debug\HR.Common.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\bin\Debug\HR.Common.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\bin\Debug\HR.Core.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\bin\Debug\HR.Core.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\obj\Debug\HR.Common.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\obj\Debug\HR.Common.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Common\obj\Debug\HR.Common.csprojResolveAssemblyReference.cache

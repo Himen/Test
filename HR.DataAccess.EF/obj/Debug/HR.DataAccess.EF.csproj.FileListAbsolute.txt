@@ -1,0 +1,12 @@
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\HR.DataAccess.EF.dll.config
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\HR.DataAccess.EF.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\HR.DataAccess.EF.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\HR.Core.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\HR.Core.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\obj\Debug\HR.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\obj\Debug\HR.DataAccess.EF.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.EF\obj\Debug\HR.DataAccess.EF.pdb

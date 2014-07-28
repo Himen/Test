@@ -3,7 +3,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.Core", "HR.Core\HR.Core.csproj", "{4F7C6AD0-7D71-4F09-AAA2-2CBD0649C584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.Tests", "HR.Tests\HR.Tests.csproj", "{FC36FFEE-66B9-4A77-AB6B-E98E207E41F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.Common", "HR.Common\HR.Common.csproj", "{E98F3B55-87BE-4EDC-A2C4-124220FEFA91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.DataAccess.EF", "HR.DataAccess.EF\HR.DataAccess.EF.csproj", "{EA53E609-8F22-4D0C-AE0C-F0B8B837DF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.DataAccess.NH", "HR.DataAccess.NH\HR.DataAccess.NH.csproj", "{F5CA625F-937D-431A-A7C1-FC628FEEB354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.DataAccess.LINQ_TO_SQL", "HR.DataAccess.LINQ_TO_SQL\HR.DataAccess.LINQ_TO_SQL.csproj", "{8A97D0E3-1DDB-475E-942D-996CD3488479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.WEB_UI", "HR.WEB_UI\HR.WEB_UI.csproj", "{5793C14C-4CDB-4D8D-B7C4-F221CCE16D13}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7C6AD0-7D71-4F09-AAA2-2CBD0649C584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7C6AD0-7D71-4F09-AAA2-2CBD0649C584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7C6AD0-7D71-4F09-AAA2-2CBD0649C584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7C6AD0-7D71-4F09-AAA2-2CBD0649C584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC36FFEE-66B9-4A77-AB6B-E98E207E41F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC36FFEE-66B9-4A77-AB6B-E98E207E41F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC36FFEE-66B9-4A77-AB6B-E98E207E41F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC36FFEE-66B9-4A77-AB6B-E98E207E41F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98F3B55-87BE-4EDC-A2C4-124220FEFA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98F3B55-87BE-4EDC-A2C4-124220FEFA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98F3B55-87BE-4EDC-A2C4-124220FEFA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98F3B55-87BE-4EDC-A2C4-124220FEFA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA53E609-8F22-4D0C-AE0C-F0B8B837DF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA53E609-8F22-4D0C-AE0C-F0B8B837DF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA53E609-8F22-4D0C-AE0C-F0B8B837DF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA53E609-8F22-4D0C-AE0C-F0B8B837DF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CA625F-937D-431A-A7C1-FC628FEEB354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CA625F-937D-431A-A7C1-FC628FEEB354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CA625F-937D-431A-A7C1-FC628FEEB354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CA625F-937D-431A-A7C1-FC628FEEB354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A97D0E3-1DDB-475E-942D-996CD3488479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A97D0E3-1DDB-475E-942D-996CD3488479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A97D0E3-1DDB-475E-942D-996CD3488479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A97D0E3-1DDB-475E-942D-996CD3488479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5793C14C-4CDB-4D8D-B7C4-F221CCE16D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5793C14C-4CDB-4D8D-B7C4-F221CCE16D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5793C14C-4CDB-4D8D-B7C4-F221CCE16D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5793C14C-4CDB-4D8D-B7C4-F221CCE16D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

@@ -1,0 +1,4 @@
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.LINQ_TO_SQL\bin\Debug\HR.DataAccess.LINQ_TO_SQL.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.LINQ_TO_SQL\bin\Debug\HR.DataAccess.LINQ_TO_SQL.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.LINQ_TO_SQL\obj\Debug\HR.DataAccess.LINQ_TO_SQL.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.LINQ_TO_SQL\obj\Debug\HR.DataAccess.LINQ_TO_SQL.pdb

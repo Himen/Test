@@ -1,0 +1,4 @@
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.NH\bin\Debug\HR.DataAccess.NH.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.NH\bin\Debug\HR.DataAccess.NH.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.NH\obj\Debug\HR.DataAccess.NH.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.DataAccess.NH\obj\Debug\HR.DataAccess.NH.pdb

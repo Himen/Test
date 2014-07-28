@@ -1,0 +1,4 @@
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Core\bin\Debug\HR.Core.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Core\bin\Debug\HR.Core.pdb
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Core\obj\Debug\HR.Core.dll
+C:\Users\Hi men\Desktop\magisterka\HR\HR.Core\obj\Debug\HR.Core.pdb
