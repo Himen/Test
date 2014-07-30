@@ -8,8 +8,8 @@ namespace HR.Core.Enums
 {
     public enum AccountType
     {
-        Worker = 1,
-        Director,
-        HR_Person
+        Pracownik = 1,
+        Kierownik,
+        HR
     }
 }

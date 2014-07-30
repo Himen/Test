@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace HR.Core.Models
 {
+    /// <summary>
+    /// To moze byc pracownik jak i rowniez kandydat
+    /// </summary>
     public class Person
     {
         public long Id { get; set; }
+        public long? DirectorId { get; set; }
         public int DataState { get; set; }
         public string FirstName { get; set; }
         public string Surname { get; set; }
